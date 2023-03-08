@@ -22,7 +22,7 @@ export const produtos = [
     { id: 11, descricao: "Notebook excelente", preco: 4500, descricaoPreco: "À vista no PIX", imagem: "./assets/laptop-2.jpg", quantidadeEstoque: 10 },
     { id: 12, descricao: "Mouse barato", preco: 20, descricaoPreco: "À vista no PIX", imagem: "./assets/mouse-1.png", quantidadeEstoque: 10 },
     { id: 13, descricao: "Mouse ótimo", preco: 200, descricaoPreco: "À vista no PIX", imagem: "./assets/mouse-2.jpg" , quantidadeEstoque: 10},
-    { id: 15, descricao: "Teclado bom", preco: 159.99, descricaoPreco: "À vista no PIX", imagem: "./assets/teclado-2.jpg", quantidadeEstoque: 10 },
+    { id: 15, descricao: "Teclado bom", preco: 159.99, descricaoPreco: "À vista no PIX2", imagem: "./assets/teclado-2.jpg", quantidadeEstoque: 10 },
 ]
 
 
